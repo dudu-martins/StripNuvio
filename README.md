@@ -26,7 +26,7 @@ Inspirado no [brazilcam4-nuvio](https://github.com/dudu-martins/brazilcam4-nuvio
 2. Cole a URL do manifest, por exemplo:
 
 ```text
-https://SEU-SERVICO.onrender.com/manifest.json
+https://stripnuvio.onrender.com/manifest.json
 ```
 
 3. Instale e abra o catálogo **StripNuvio**
