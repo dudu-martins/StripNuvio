@@ -9,7 +9,7 @@ const path = require("path");
 
 let PUBLIC_URL =
   process.env.PUBLIC_URL ||
-  "http://10.0.0.101:7000";
+  "https://stripnuvio.onrender.com";
 
 while (PUBLIC_URL.endsWith("/")) {
   PUBLIC_URL = PUBLIC_URL.slice(0, -1);
